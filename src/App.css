@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+body {
+  background-color: #f7931a;
+}
+#page-title {
+  font-style: italic;
+}
 
 .App-logo {
   height: 40vmin;
